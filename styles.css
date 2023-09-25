@@ -1,0 +1,18 @@
+.head-icon-flex {
+    display: flex;
+}
+
+
+.key-block {
+    margin-top: 300px;
+    text-align: center;
+}
+
+.key-block h2 {
+    color: gray;
+    font-size: 17px;
+}
+
+
+
+
